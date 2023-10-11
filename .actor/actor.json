@@ -1,0 +1,18 @@
+{
+    "actorSpecification": 1,
+    "name": "impartial_myrtle/first-actor",
+    "version": "0.0",
+    "buildTag": "latest",
+    "minMemoryMbytes": 256,
+    "maxMemoryMbytes": 4096,
+    "environmentVariables": {
+        "MYSQL_USER": "my_username",
+        "MYSQL_PASSWORD": "@mySecretPassword"
+    },
+    "dockerfile": "./Dockerfile",
+    "readme": "./ACTOR.md",
+    "input": "./input_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    }
+}

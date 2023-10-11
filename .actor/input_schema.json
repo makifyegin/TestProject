@@ -1,0 +1,20 @@
+{
+    "title": "Number adder",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "num1": {
+            "title": "1st Number",
+            "type": "integer",
+            "description": "First number.",
+            "editor": "number"
+        },
+        "num2": {
+            "title": "2nd Number",
+            "type": "integer",
+            "description": "Second number.",
+            "editor": "number"
+        }
+    },
+    "required": ["num1", "num2"]
+}
