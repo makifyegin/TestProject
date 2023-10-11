@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/workspaces/codespaces-blank/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/workspaces/codespaces-blank/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/workspaces/codespaces-blank/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/workspaces/codespaces-blank/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/workspaces/codespaces-blank/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
